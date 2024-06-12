@@ -1,0 +1,74 @@
+{
+  "status": "success",
+  "items": [
+    {
+      "id": 1,
+      "title": "Skullcandy Jib Wired in-Earphone Without Mic",
+      "price": 399,
+      "image": "https://m.media-amazon.com/images/I/51pnWx+vzqL._SL1200_.jpg",
+      "view": "https://www.amazon.in/Skullcandy-SCS2DUFZ-385-Ear-Headphone-without/dp/B004MWJSB4/ref=sr_1_1?dchild=1&keywords=skullcandy%2Bearphones&qid=1619455479&sr=8-1&th=1"
+    },
+    {
+      "id": 2,
+      "title": "OnePlus Bullets Wireless Z in-Ear Bluetooth Earphones with Mic",
+      "price": "1999",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/616bhfyXimL._SL1500_.jpg",
+      "view": "https://www.amazon.in/OnePlus-Bullets-Wireless-Bluetooth-Earphones/dp/B086CSGV2N/ref=sr_1_3?crid=2ARWY3ERHDY5C&dchild=1&keywords=oneplus+bullets+wireless+z&qid=1619456588&sprefix=oneplus+bull%2Caps%2C727&sr=8-3"
+    },
+    {
+      "id": 3,
+      "title": "ZEBRONICS Zeb-Music Bomb X Wireless 20W Portable Speaker, 4000 mAh Battery, RGB Lights, IPX7 Water Resistant, Wireless BT/AUX, Type C Charging, Metal Hook ",
+      "price": 2449,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81Afib5mrtL._SL1500_.jpg",
+      "view": "https://www.amazon.in/ZEBRONICS-Zeb-Music-Wireless-Portable-Resistant/dp/B08RJQN31W/ref=sr_1_3?dchild=1&keywords=zebronics+zeb+music+bomb&qid=1619457326&sr=8-3"
+    },
+    {
+      "id": 4,
+      "title": "The Original Super Donut",
+      "price": 999,
+      "image": "./images/product-4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "The Original Super Donut",
+      "price": 250,
+      "image": "./images/product-5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "The Original Super Donut",
+      "price": 850,
+      "image": "./images/product-6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "The Original Super Donut",
+      "price": 600,
+      "image": "./images/product-7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "The Original Super Donut",
+      "price": 350,
+      "image": "./images/product-8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "The Original Super Donut",
+      "price": 799,
+      "image": "./images/product-8.jpg"
+    },
+    {
+      "id": 10,
+      "title": "The Original Super Donut",
+      "price": 150,
+      "image": "./images/product-9.jpg"
+    },
+    {
+      "id": 11,
+      "title": "The Original Super Donut",
+      "price": 650,
+      "image": "./images/product-7.jpg"
+    }
+  ]
+}

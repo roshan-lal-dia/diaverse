@@ -1,0 +1,166 @@
+Add real Address
+
+cateys  == soft rtc. . diaverse.cf
+
+
+office no:
+1=DIA office
+2=DIAverse {
+	No : 2,
+DIA Home, DIA007
+DIAverse
+}
+3=DIA Sessions
+4=DIA Hunters
+5-DIA Gigs
+6-DIA Blogs
+{
+	No : 6,
+DIA Square, DIA007
+DIAverse  
+}
+7-DIA lens
+
+                <!-- ADD WHAT IS DIA HUNTERS
+    
+
+ <!--add fiverr profile in office-->                                 IN  P TAG AFTER WELCOME 
+                                  DIA HUNTERS -->
+{
+	default blog template is for hunted reviews
+}
+
+{ !!links need to re-verified!!  check html5 and place images wherever needed
+	dia office - check content and icons;
+	dia blogs - images, search bar and content;
+	donateus -  content left;
+	diaverse - content left need to link to websites on learn more page;
+	diahunters-
+	diagigs-get the php thing , 
+	dialens-images, links and content left and also image sizing:
+
+	multiverse,paralellism for dia lens images think about it ask artists which modal they want
+	proloue,astral,miniport  for artist bio-ask them 
+	
+	That mate template is uses for about page, after learning html and css maybe for landing page.
+}
+
+
+
+shop_a - HUNTED SOUND
+
+SHOP_1 : HUNTED HEADPHONES
+
+shop1_1:HUNTED In-ear wired
+shop1_2:HUNTED In-ear wireless
+shop1_3:HUNTED True wireless
+shop1_4:HUNTED On and Over-ear wireless
+shop1_5:HUNTED On-ear wired
+
+SHOP_2 : HUNTED SPEAKERS
+
+shop2_1:HUNTED portable
+shop2_2:HUNTED Home Theater System
+shop2_3:HUNTED Multimedia speakers
+shop2_4:HUNTED Soundbars
+shop2_5:HUNTED Party Speakers
+
+shop_b - HUNTED LAPTOP
+
+SHOP_3 : HUNTED PRODUCTIVE LAPTOPS
+
+shop_3.2:HUNTED productive laptops 40-60k 
+shop_3.1:HUNTED productive laptops above 60k
+
+SHOP_4 : HUNTED GAMING LAPTOPS
+
+shop_4.1:HUNTED gaming laptops 50-70k
+shop_4.2:HUNTED gaming laptops above 70k
+
+shop_c - HUNTED ELECTRONIC STORAGE     <!--shop ,5,6 is 
+                                      reserved for future-->
+SHOP_7 : HUNTED HDD
+
+shop7_1:HUNTED Internal 3.5" HDD
+shop7_2:HUNTED Internal 2.5" HDD
+shop7_3:HUNTED External HDD
+
+
+SHOP_8 : HUNTED SSD
+
+shop8_1:HUNTED Internal SSD
+shop8_2:HUNTED External SSD
+
+
+SHOP_9 : HUNTED USB FLASH DRIVE
+
+
+SHOP_10 : HUNTED FLASH MEMORY CARD
+
+
+shop_d - HUNTED POWER BANKS
+
+SHOP_11 : HUNTED Li-Po 
+
+shop11_1:HUNTED under 10,000 mAh
+shop11_2:HUNTED 10,000-13,000 mAh
+shop11_3:HUNTED 13,000-20,000 mAh
+shop11_4:HUNTED 20,000 mAh and above
+
+SHOP_12 : HUNTED Li-ion
+
+shop12_1:HUNTED under 10,000 mAh
+shop12_2:HUNTED 10,000-13,000 mAh
+shop12_3:HUNTED 13,000-20,000 mAh
+shop12_4:HUNTED 20,000 mAh and above
+
+shop_e - HUNTED DATA CABLES
+
+SHOP_13 : HUNTED CABLES
+
+shop13_1:HUNTED otg adapters 
+shop13_2:HUNTED micro usb
+shop13_3:HUNTED type c
+shop13_4:HUNTED iphone compatible-lightning cables
+shop13_5:HUNTED multi output
+
+shop_f - HUNTED COMPUTER/MOBILE/TABLET ACCESSORIES
+
+SHOP_14 : HUNTED ACCESSORIES
+
+shop14_1:HUNTED wired  keyboards
+shop14_2:HUNTED wireless  keyboards
+shop14_3:HUNTED gaming keyboards
+shop14_4:HUNTED wired mice
+shop14_5:HUNTED wireless mice
+shop14_6:HUNTED gaming mice
+shop14_7:HUNTED wired gamepads
+shop14_8:HUNTED wireless gamepads
+shop14_9:HUNTED gamepads with mobile holder
+shop14_10:HUNTED cooling pads
+shop14_11:HUNTED webcams
+shop14_12:HUNTED mouse pads
+shop14_13:HUNTED keyboard skins
+shop14_14:HUNTED laptop skin decals
+shop14_15:HUNTED docking stations
+shop14_14:HUNTED disk cases and covers
+shop14_17:HUNTED laptop bags and sleeves
+shop14_18:HUNTED usb type A hub
+shop14_19:HUNTED usb type c hub
+shop14_20:HUNTED usb type c hub for apple
+shop14_21:HUNTED graphic tablets
+shop14_22:HUNTED presentation remote
+shop14_23:HUNTED ips panel monitors
+shop14_24:HUNTED tp panel monitors
+shop14_25:HUNTED monitor covers
+shop14_26:HUNTED tablet keyboards
+shop14_27:HUNTED stylus pen
+shop14_28:HUNTED mobile holders
+shop14_29:HUNTED selfie stick
+shop14_30:HUNTED tripod
+
+shop_g - HUNTED NETWORK/CONNECTIVITY ACCESSORIES
+
+SHOP_15 : HUNTED ACCESSORIES
+
+shop15_1:HUNTED wired  keyboards
